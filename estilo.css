@@ -8,10 +8,10 @@ h1{
 }
 .caixa1 {
    position: absolute;
-   background: rgb(99, 153, 28);
+   background: rgb(99, 13, 87);
    width: 100px;
    height: 100px;
-   color: #FFFFFF;
+   color: 	#FFFAFA;
    right: 0;
    top:0;
    font-family: 'Courier New', Courier, monospace;
@@ -21,7 +21,7 @@ h1{
    background: blue;
    width: 100px;
    height: 100px;
-   color: #FFFFFF;
+   color: 	#FFFAFA;
    right: 0;
    top:105px;
 }
@@ -77,7 +77,7 @@ li a {
    color: rgb(255, 255, 255);
    text-align: center;
    padding: 14px 16px;
-   text-decoration: none; 
+   text-decoration: none;
    font-family: 'Courier New', Courier, monospace;
 }
 li a:hover {
